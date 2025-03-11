@@ -18,6 +18,9 @@ Graphs and plots to illustrate findings
 Project1DataExploration.ipynb
 Data cleaning and transformation
 
-cleaned_survey.xls
-Contains student survey responses regarding course preferences, enrollment influences, and demographics.
+cleaned_survey.csv
+Contains cleaned student survey responses.
 Used as the primary data source for both notebooks.
+
+survey.csv
+Contains uncleaned student survey responses.
